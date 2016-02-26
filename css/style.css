@@ -1,12 +1,3 @@
-/*@font-face {
-  font-family: 'Pacifico';
-  src: url('pacifico.eot');
-  src: url('pacifico.eot?#iefix') format('embedded-opentype'),
-       url('pacifico.woff') format('woff'),
-       url('pacifico.ttf') format('truetype'),
-       url('pacifico.svg#Pacifico') format('svg');
-}*/
- 
 #disqus_thread{margin-top:20px;}
 *{-moz-box-sizing:border-box;box-sizing:border-box;}
 .blue{background:#3498db;color:#fff;}
@@ -69,7 +60,7 @@ ul.nav li a{font-size:12px;text-decoration:none;}
 ul.nav li a{display:block;font-size:10px;}
 }
 @media (max-width: 768px) {
-.blue h3{font-size:24px;}
+.blue h3{font-size:24px;padding: 20px;margin: 10px}
 .button{margin:0 auto 20px;width:auto;}
 .button.first{margin-top:40px;}
 .buttons{padding:0 0 20px;}
